@@ -4,7 +4,7 @@
     <Page id="page" title="{i18n>title}">
         <content>
             <Button id="idButton" text="Click Me" />
-            <Text id="idText" text="Dev Ops testing" />
+            <Text id="idText" text="Dev Ops testing phase" />
         </content>
     </Page>
 </mvc:View>
