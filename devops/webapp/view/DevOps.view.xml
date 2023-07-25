@@ -1,9 +1,0 @@
-<mvc:View controllerName="devops.controller.DevOps"
-    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
-    xmlns="sap.m">
-    <Page id="page" title="{i18n>title}">
-        <content>
-            <Button id="idButton" text="Click Me "></Button>
-        </content>
-    </Page>
-</mvc:View>
