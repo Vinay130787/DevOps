@@ -3,7 +3,7 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <content>
-            <Button id="idButton" text="Click Mee phase" />
+            <Button id="idButton" text="Click Mee phaseee" />
             <Text id="idText" text="Dev Ops testing phase" />
             <Label id="idLabel" text="Label"></Label>
         </content>
